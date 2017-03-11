@@ -1,1 +1,1 @@
-Creating a new branch is quick.
+git checkout master
